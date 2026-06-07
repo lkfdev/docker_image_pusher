@@ -1,1 +1,1 @@
-tiptime/ttnode
+ onlyoffice/documentserver:latest
