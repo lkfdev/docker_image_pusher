@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:latest
+ghcr.io/jeffvli/feishin:latest
