@@ -1,1 +1,1 @@
-ghcr.io/jeffvli/feishin:latest
+openlistteam/openlist:latest
