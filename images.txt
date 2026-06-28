@@ -1,1 +1,1 @@
-onestrm/onestrm:latest
+lifj25/onestrm:latest
