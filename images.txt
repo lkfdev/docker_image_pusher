@@ -1,1 +1,1 @@
-lifj25/onestrm:latest
+jxxghp/moviepilot-v2:latest
