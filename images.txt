@@ -1,1 +1,2 @@
-ghcr.io/astrbotdevs/shipyard-neo-ship:latest
+ghcr.io/astrbotdevs/shipyard-neo-gull
+ghcr.io/astrbotdevs/shipyard-neo-bay:latest
