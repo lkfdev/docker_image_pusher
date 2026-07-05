@@ -1,1 +1,1 @@
-light222/baidupcs-go
+ghcr.io/astrbotdevs/shipyard-neo-ship:latest
