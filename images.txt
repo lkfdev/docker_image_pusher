@@ -1,2 +1,1 @@
-ghcr.io/astrbotdevs/shipyard-neo-gull
-ghcr.io/astrbotdevs/shipyard-neo-bay:latest
+b3log/siyuan:latest
