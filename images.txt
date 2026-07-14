@@ -1,1 +1,1 @@
-activitywatch/aw-server:latest
+faraazrehan07/activitywatch-server
