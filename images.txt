@@ -1,1 +1,1 @@
-syncthing/syncthing
+wansyu/syncthing:latest
