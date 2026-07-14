@@ -1,1 +1,1 @@
-faraazrehan07/activitywatch-server
+activitywatch/aw-server-rust
