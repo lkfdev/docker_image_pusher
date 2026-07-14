@@ -1,1 +1,1 @@
- ghcr.io/graphichealer/aw-server-docker:latest
+syncthing/syncthing
