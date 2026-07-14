@@ -1,1 +1,1 @@
-activitywatch/aw-server-rust
+graphichealer/aw-server-docker:latest
