@@ -1,1 +1,1 @@
-graphichealer/aw-server-docker:latest
+ ghcr.io/graphichealer/aw-server-docker:latest
