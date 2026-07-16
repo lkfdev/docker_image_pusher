@@ -1,1 +1,1 @@
-zhongyw/115uploader
+ dr34m/tao-sync:latest
