@@ -1,1 +1,1 @@
-wansyu/syncthing:latest
+zhongyw/115uploader
