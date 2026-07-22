@@ -1,1 +1,1 @@
-diygod/rsshub:latest
+privoce/vocechat-server:latest
