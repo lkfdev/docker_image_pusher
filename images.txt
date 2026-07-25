@@ -1,1 +1,1 @@
-privoce/vocechat-server:latest
+ghcr.io/ctaylor1/briefcast:latest
