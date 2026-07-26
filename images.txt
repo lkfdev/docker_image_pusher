@@ -1,1 +1,1 @@
-ghcr.io/ctaylor1/briefcast:latest
+ vaultwarden/server:latest
