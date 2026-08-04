@@ -1,1 +1,1 @@
-nextcloud:31-apache
+nextcloud:32-apache
