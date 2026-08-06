@@ -1,1 +1,1 @@
-nextcloud:34-apache
+calciumion/new-api:latest
