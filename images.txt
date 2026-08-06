@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+coracoo/tradis:latest
