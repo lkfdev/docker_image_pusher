@@ -1,1 +1,1 @@
-coracoo/tradis:latest
+linzixuanzz/daidai-panel:latest
