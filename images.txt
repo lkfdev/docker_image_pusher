@@ -1,1 +1,1 @@
-linzixuanzz/daidai-panel:latest
+nickfedor/watchtower:latest
