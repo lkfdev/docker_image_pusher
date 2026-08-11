@@ -1,1 +1,1 @@
-nickfedor/watchtower:latest
+jxxghp/moviepilot-v2:latest
