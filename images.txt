@@ -1,1 +1,1 @@
-mattermost/mattermost-team-edition:latest
+ollama/ollama:latest
