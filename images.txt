@@ -1,1 +1,1 @@
- mzz2017/v2raya:v2.4.11
+metacubex/mihomo:latest
