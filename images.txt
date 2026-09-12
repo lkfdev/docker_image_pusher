@@ -1,1 +1,1 @@
-ghcr.io/nesquena/hermes-webui:latest
+ekkoye8888/hermes-web-ui:latest
