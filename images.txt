@@ -1,1 +1,1 @@
-docker.io/node:20-alpine
+ ghcr.io/moeru-ai/airi:latest
