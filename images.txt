@@ -1,1 +1,1 @@
- ghcr.io/moeru-ai/airi:latest
+ ghcr.io/moeru-ai/airi-server:lates
