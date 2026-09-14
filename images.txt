@@ -1,1 +1,1 @@
- ghcr.io/moeru-ai/airi-server:lates
+ghcr.io/speaches-ai/speaches:latest-cpu
