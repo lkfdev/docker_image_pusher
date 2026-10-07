@@ -1,2 +1,2 @@
-ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning:release
+docker.io/redis:6.2-alpine
+docker.io/pgvector/pgvector:pg16
