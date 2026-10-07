@@ -1,2 +1,1 @@
-docker.io/redis:6.2-alpine
-docker.io/pgvector/pgvector:pg16
+openlistteam/openlist:latest
