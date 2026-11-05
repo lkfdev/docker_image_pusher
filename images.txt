@@ -1,1 +1,1 @@
-EKKOLearnAI/hermes-web-ui
+ekkoye8888/hermes-web-ui:latest
