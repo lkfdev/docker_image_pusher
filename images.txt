@@ -1,1 +1,1 @@
-b3log/siyuan:latest
+ghcr.io/vectorize-io/hindsight:latest
