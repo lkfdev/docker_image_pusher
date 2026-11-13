@@ -1,1 +1,1 @@
-ghcr.io/vectorize-io/hindsight:latest
+nousresearch/hermes-agent:latest
